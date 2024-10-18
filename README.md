@@ -1,4 +1,4 @@
-# MicroLab
+# MicroLab Project
 Line Following Car using ESP32-CAM Module:
 
 Project Overview-
